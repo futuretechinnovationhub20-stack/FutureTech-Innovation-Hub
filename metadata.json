@@ -1,0 +1,6 @@
+{
+  "name": "FutureTech Innovation Hub",
+  "description": "Global research collaboration platform for publication-oriented research across engineering, AI, renewable energy, cybersecurity, smart grid, and material science.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
